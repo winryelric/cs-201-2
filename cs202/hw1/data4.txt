@@ -1,0 +1,237 @@
+== EXPERIMENT FOR RANDOM ORDER ==
+        SIZE = 20000
+                = INSERTION SORT =
+                Key Comparisons :       201023537
+                Data Moves:             201063534
+                Time Elapsed:           630 ms
+                = MERGE SORT =
+                Key Comparisons :       986826
+                Data Moves:             1101742
+                Time Elapsed:           0 ms
+                = QUICK SORT =
+                Key Comparisons :       615975
+                Data Moves:             1321649
+                Time Elapsed:           10 ms
+        SIZE = 40000
+                = INSERTION SORT =
+                Key Comparisons :       802128217
+                Data Moves:             802208214
+                Time Elapsed:           2540 ms
+                = MERGE SORT =
+                Key Comparisons :       2127035
+                Data Moves:             2323442
+                Time Elapsed:           10 ms
+                = QUICK SORT =
+                Key Comparisons :       1201478
+                Data Moves:             2503085
+                Time Elapsed:           10 ms
+        SIZE = 60000
+                = INSERTION SORT =
+                Key Comparisons :       1807188787
+                Data Moves:             1807308784
+                Time Elapsed:           5720 ms
+                = MERGE SORT =
+                Key Comparisons :       3296924
+                Data Moves:             3583442
+                Time Elapsed:           10 ms
+                = QUICK SORT =
+                Key Comparisons :       1905390
+                Data Moves:             3986436
+                Time Elapsed:           20 ms
+        SIZE = 80000
+                = INSERTION SORT =
+                Key Comparisons :       3198471951
+                Data Moves:             3198631948
+                Time Elapsed:           10090 ms
+                = MERGE SORT =
+                Key Comparisons :       4468058
+                Data Moves:             4886838
+                Time Elapsed:           10 ms
+                = QUICK SORT =
+                Key Comparisons :       2633825
+                Data Moves:             5355408
+                Time Elapsed:           30 ms
+        SIZE = 100000
+                = INSERTION SORT =
+                Key Comparisons :       4989317637
+                Data Moves:             4989517634
+                Time Elapsed:           15820 ms
+                = MERGE SORT =
+                Key Comparisons :       5840875
+                Data Moves:             6206838
+                Time Elapsed:           20 ms
+                = QUICK SORT =
+                Key Comparisons :       3750541
+                Data Moves:             8034066
+                Time Elapsed:           40 ms
+        SIZE = 120000
+                = INSERTION SORT =
+                Key Comparisons :       7247136171
+                Data Moves:             7247376168
+                Time Elapsed:           22930 ms
+                = MERGE SORT =
+                Key Comparisons :       6823443
+                Data Moves:             7526838
+                Time Elapsed:           20 ms
+                = QUICK SORT =
+                Key Comparisons :       4069958
+                Data Moves:             8277537
+                Time Elapsed:           50 ms
+== EXPERIMENT FOR ASCENDING ORDER ==
+        SIZE = 20000
+                = INSERTION SORT =
+                Key Comparisons :       39999
+                Data Moves:             79996
+                Time Elapsed:           0 ms
+                = MERGE SORT =
+                Key Comparisons :       925647
+                Data Moves:             1101742
+                Time Elapsed:           0 ms
+                = QUICK SORT =
+                Key Comparisons :       200029998
+                Data Moves:             200129993
+                Time Elapsed:           1000 ms
+        SIZE = 40000
+                = INSERTION SORT =
+                Key Comparisons :       79999
+                Data Moves:             159996
+                Time Elapsed:           0 ms
+                = MERGE SORT =
+                Key Comparisons :       1956578
+                Data Moves:             2323442
+                Time Elapsed:           0 ms
+                = QUICK SORT =
+                Key Comparisons :       800059998
+                Data Moves:             800259993
+                Time Elapsed:           4000 ms
+        SIZE = 60000
+                = INSERTION SORT =
+                Key Comparisons :       119999
+                Data Moves:             239996
+                Time Elapsed:           10 ms
+                = MERGE SORT =
+                Key Comparisons :       2981030
+                Data Moves:             3583442
+                Time Elapsed:           0 ms
+                = QUICK SORT =
+                Key Comparisons :       1800089998
+                Data Moves:             1800389993
+                Time Elapsed:           9000 ms
+        SIZE = 80000
+                = INSERTION SORT =
+                Key Comparisons :       159999
+                Data Moves:             319996
+                Time Elapsed:           0 ms
+                = MERGE SORT =
+                Key Comparisons :       4118765
+                Data Moves:             4886838
+                Time Elapsed:           20 ms
+                = QUICK SORT =
+                Key Comparisons :       3200119998
+                Data Moves:             3200519993
+                Time Elapsed:           15980 ms
+        SIZE = 100000
+                = INSERTION SORT =
+                Key Comparisons :       199999
+                Data Moves:             399996
+                Time Elapsed:           0 ms
+                = MERGE SORT =
+                Key Comparisons :       5197252
+                Data Moves:             6206838
+                Time Elapsed:           20 ms
+                = QUICK SORT =
+                Key Comparisons :       5000149998
+                Data Moves:             5000649993
+                Time Elapsed:           24980 ms
+        SIZE = 120000
+                = INSERTION SORT =
+                Key Comparisons :       239999
+                Data Moves:             479996
+                Time Elapsed:           0 ms
+                = MERGE SORT =
+                Key Comparisons :       6291426
+                Data Moves:             7526838
+                Time Elapsed:           20 ms
+                = QUICK SORT =
+                Key Comparisons :       7200179998
+                Data Moves:             7200779993
+                Time Elapsed:           35970 ms
+== EXPERIMENT FOR DESCENDING ORDER ==
+        SIZE = 20000
+                = INSERTION SORT =
+                Key Comparisons :       400019999
+                Data Moves:             400059996
+                Time Elapsed:           1260 ms
+                = MERGE SORT =
+                Key Comparisons :       878343
+                Data Moves:             1101742
+                Time Elapsed:           0 ms
+                = QUICK SORT =
+                Key Comparisons :       300049999
+                Data Moves:             600149999
+                Time Elapsed:           2070 ms
+        SIZE = 40000
+                = INSERTION SORT =
+                Key Comparisons :       1600039999
+                Data Moves:             1600119996
+                Time Elapsed:           5050 ms
+                = MERGE SORT =
+                Key Comparisons :       1853195
+                Data Moves:             2323442
+                Time Elapsed:           0 ms
+                = QUICK SORT =
+                Key Comparisons :       1200099999
+                Data Moves:             2400299999
+                Time Elapsed:           8260 ms
+        SIZE = 60000
+                = INSERTION SORT =
+                Key Comparisons :       3600059999
+                Data Moves:             3600179996
+                Time Elapsed:           11360 ms
+                = MERGE SORT =
+                Key Comparisons :       2879753
+                Data Moves:             3583442
+                Time Elapsed:           10 ms
+                = QUICK SORT =
+                Key Comparisons :       2700149999
+                Data Moves:             5400449999
+                Time Elapsed:           18590 ms
+        SIZE = 80000
+                = INSERTION SORT =
+                Key Comparisons :       6400079999
+                Data Moves:             6400239996
+                Time Elapsed:           20210 ms
+                = MERGE SORT =
+                Key Comparisons :       3902993
+                Data Moves:             4886838
+                Time Elapsed:           20 ms
+                = QUICK SORT =
+                Key Comparisons :       4800199999
+                Data Moves:             9600599999
+                Time Elapsed:           33050 ms
+        SIZE = 100000
+                = INSERTION SORT =
+                Key Comparisons :       10000099999
+                Data Moves:             10000299996
+                Time Elapsed:           31630 ms
+                = MERGE SORT =
+                Key Comparisons :       4983679
+                Data Moves:             6206838
+                Time Elapsed:           20 ms
+                = QUICK SORT =
+                Key Comparisons :       7500249999
+                Data Moves:             15000749999
+                Time Elapsed:           51660 ms
+        SIZE = 120000
+                = INSERTION SORT =
+                Key Comparisons :       14400119999
+                Data Moves:             14400359996
+                Time Elapsed:           45540 ms
+                = MERGE SORT =
+                Key Comparisons :       6051264
+                Data Moves:             7526838
+                Time Elapsed:           30 ms
+                = QUICK SORT =
+                Key Comparisons :       10800299999
+                Data Moves:             21600899999
+                Time Elapsed:           74390 ms
