@@ -96,9 +96,9 @@ void UniqueWordTree::printMostFrequent(ofstream& out_file) {
 }
 
 // Standard deviation is defined as the following:
-//    _________________       The numerator is calculated
-//		|							in sumOfSquaredDifferences.
-// _  | Σ(x_i - mean)^2			N, number of items is also 
+//    _________________		The numerator is calculated
+//    |				in sumOfSquaredDifferences.
+// _  | Σ(x_i - mean)^2		N, number of items is also 
 //  \ | ==============		calculated in getTotalWordCount.
 //   \|       N
 void UniqueWordTree::printStandardDeviation(ofstream& out_file) {
