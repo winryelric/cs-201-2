@@ -1,2 +1,2 @@
-# cs-201-2
-My CS201/2 homeworks and programs in Bilkent University. Mostly involving data structures and algorithm analysis.
+# Data Structures and Algorithm Analysis
+My Sophomore year works in learning fundamental structures of computer science, in C++.
