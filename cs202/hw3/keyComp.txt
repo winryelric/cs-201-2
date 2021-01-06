@@ -1,7 +1,0 @@
-1000 # Key Comparisons: 26128 /n= 26.128
-2000 # Key Comparisons: 58447 /n= 29.2235
-3000 # Key Comparisons: 92576 /n= 30.8586
-4000 # Key Comparisons: 128536 /n= 32.134
-5000 # Key Comparisons: 165370 /n= 33.074
-
-compare the doubles with logn in a graph?
