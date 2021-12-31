@@ -1,2 +1,2 @@
 # Data Structures and Algorithm Analysis
-My Sophomore year works in learning fundamental structures of computer science, in C++.
+My Sophomore year homeworks in CS201/2 courses, fundamental structures of computer science, in C++
